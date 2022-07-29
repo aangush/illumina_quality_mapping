@@ -1,0 +1,14 @@
+*.fa
+*.fas
+*.gz
+*.fastq
+*.fq
+*.bam
+*.sam
+*.vcf
+BrapaV1.5_chrom_only*
+Brapa_gene_v1.5*
+GH.lane67*
+.Rproj.user
+
+*.ht2
