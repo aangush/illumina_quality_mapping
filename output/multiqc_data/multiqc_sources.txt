@@ -1,0 +1,2 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	GH.lane67	/home/aangus/bioinfo/bis180L/init_qual_mapping/output/fastqc_out/GH.lane67_fastqc.zip
